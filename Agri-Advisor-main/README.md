@@ -9,8 +9,6 @@ Agri-Advisor helps farmers select the most suitable crops based on soil and envi
 
 Built on Android using Java, with Firebase for backend storage and authentication, and a Python Flask API for ML predictions.
 
-**Documentation**: [Agri-Advisor.pdf](https://drive.google.com/file/d/1HbBSy-VANezsGS9hq2wRbtHmtwJHsAHx/view)
-
 
 ## 🌟 Features
 
